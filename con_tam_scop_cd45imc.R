@@ -1,6 +1,7 @@
 #load pockage
 library(Seurat)
-
+library(ggplot2)
+library(grDevices)
 suppressPackageStartupMessages(library(ggsci))
 suppressPackageStartupMessages(library(DoubletFinder))
 
